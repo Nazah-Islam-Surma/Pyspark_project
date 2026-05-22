@@ -1,5 +1,5 @@
 # 🚖 Ride-Hailing  Pipeline — PySpark & Azure Databricks
-An end-to-end data engineering project that processes ride-hailing data using PySpark on Azure Databricks with deduplication,incremental loading, and upsert operations.
+An end-to-end data engineering project that processes ride-hailing data using PySpark on Azure Databricks with incremental loading ,deduplication, and upsert operations.
 
 ##  Project Overview
 This project simulates a real-world data pipeline for a ride-hailing platform.Raw data from multiple sources (customers, drivers, trips, payments, vehicles,locations) is ingested, cleaned, deduplicated, and loaded into a data warehouse using industry-standard ETL patterns.
